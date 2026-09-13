@@ -1,0 +1,44 @@
+ANAKIN FORGE — 2 TO 3 MINUTE DEMO SCRIPT
+
+0:00–0:20
+"Hello, this is AgentScout, an autonomous AI job research agent built for the Anakin Forge Hackathon.
+
+The problem is simple: finding a relevant job often requires opening many websites, reading listings, comparing requirements, and deciding which opportunity to apply to first."
+
+0:20–0:40
+"AgentScout turns that manual process into a multi-step agent workflow.
+
+The user gives a target role, location, skills, experience level and work mode."
+
+0:40–1:20
+[Show the Streamlit app]
+
+"For this demo I will search for Data Analyst opportunities in India with SQL, Excel, Power BI and Python."
+
+[Click Run Agent]
+
+"AgentScout now sends the research objective to Anakin. Anakin searches the live web and returns web evidence."
+
+1:20–1:55
+[Show results]
+
+"AgentScout reads those results and scores them against the user's requirements.
+
+You can see a match score, the reasons for the score, the source domain, and a direct link to inspect the opportunity."
+
+1:55–2:20
+[Show workflow section]
+
+"The important part is that this is not simply a chatbot.
+
+The workflow is:
+Understand, Research, Read, Reason and Score, Recommend, and Act.
+
+Anakin is used as the live-web intelligence layer, while AgentScout performs the application-specific ranking and action-oriented presentation."
+
+2:20–2:40
+"That gives the user a practical shortlist instead of just a conversational answer.
+
+The project is open source on GitHub and deployed as a live Streamlit application.
+
+Thank you."
